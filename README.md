@@ -8,3 +8,7 @@ The run the following command to setup the project locally:
 2. `npm run serve` - to run the app locally on port 8080
 
 With this you can get Pretty much started.
+
+The App is deployed on Vercel
+Check it out:-
+`https://image-effects-wasm-hrlj6iqje-shourya742.vercel.app/`
